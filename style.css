@@ -84,3 +84,23 @@ select {
   color: #0f66c8;
   border: 2px solid #0f66c8;
 }
+
+.container-welcome {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 40px 100px;
+  border-radius: 50px;
+  display: none;
+}
+
+.container-sorry {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 40px 100px;
+  border-radius: 50px;
+  display: none;
+}
+.container-birthday {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 40px 100px;
+  border-radius: 50px;
+  display: none;
+}
